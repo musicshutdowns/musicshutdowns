@@ -1,0 +1,4 @@
+services:
+#    ms_front.example:
+#        class: MS\FrontBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

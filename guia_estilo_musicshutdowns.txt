@@ -1,0 +1,6 @@
+botones , enlaces y linea horizontal --> HEX(578CA9)  RGB(87,140,169)
+
+toolbar --> HEX(C7D9E7) RGB(199,217,231)
+
+color del título del toolbar --> HEX(3B7595)
+
